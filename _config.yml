@@ -12,7 +12,7 @@ title                    : "Seidi Yonamine / Neuroengineer"
 title_separator          : "-"
 name                     : &name "Seidi Yonamine Yamauti"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://seidi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "seidikun/seidi.github.io"
 
