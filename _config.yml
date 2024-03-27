@@ -21,7 +21,7 @@ repository               : "seidikun/seidi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Seidi.jpeg"
+  avatar           : "Seidi.jpeg"
   name             : "Seidi Yonamine Yamauti"
   pronouns         : "he/him"  
   bio              : "Brain-Machine Interface, Neurorehabilitation, Machine Learning"
@@ -48,30 +48,17 @@ author:
 
   # Social media
   #bluesky          : "bsky.app" # Replace this with you Bluesky username
-  #facebook         : # Username
   #flickr           : # Username
-  #foursquare       : # Username
   #goodreads        : # Username
-  #google_plus      : # Username
-  #keybase          : # Username
   Instagram        : "seidi.yo"
   #lastfm           : # Username
   #linkedin         : # Username
   #mastodon         : # URL
   #medium           : # URL
   #pinterest        : # Username
-  #soundcloud       : # Username
   #steam            : # Username
-  #telegram         : # URL
-  #tumblr           : # Username
-  #twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
-  #vine             : # Username
-  #weibo            : # Username
-  #wikipedia        : # Username
-  #xing             : # Username
+  twitter          : "seidinho__" 
   #youtube          : # Username
-  #zhihu            : # URL
-
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
