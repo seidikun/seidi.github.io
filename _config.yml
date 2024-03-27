@@ -21,7 +21,7 @@ repository               : "seidikun/seidi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Seidi.jpeg"
+  avatar           : "/images/Seidi.jpeg"
   name             : "Seidi Yonamine Yamauti"
   pronouns         : "he/him"  
   bio              : "Brain-Machine Interface, Neurorehabilitation, Machine Learning"
