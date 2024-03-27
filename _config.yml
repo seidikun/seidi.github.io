@@ -21,10 +21,10 @@ repository               : "seidikun/seidi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Seidi.jpeg"
   name             : "Seidi Yonamine Yamauti"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Brain-Machine Interface, Neurorehabilitation, Machine Learning"
   location         : "São Paulo, Brazil"
   employer         : "Santos Dumont Institute"
   uri              : # URL
@@ -51,26 +51,26 @@ author:
   #facebook         : # Username
   #flickr           : # Username
   #foursquare       : # Username
-  goodreads        : # Username
+  #goodreads        : # Username
   #google_plus      : # Username
   #keybase          : # Username
   Instagram        : "seidi.yo"
   #lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # URL
+  #linkedin         : # Username
+  #mastodon         : # URL
+  #medium           : # URL
+  #pinterest        : # Username
+  #soundcloud       : # Username
+  #steam            : # Username
+  #telegram         : # URL
+  #tumblr           : # Username
+  #twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  #vine             : # Username
+  #weibo            : # Username
+  #wikipedia        : # Username
+  #xing             : # Username
+  #youtube          : # Username
+  #zhihu            : # URL
 
 
 # Site Settings
