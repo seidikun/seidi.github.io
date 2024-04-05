@@ -2,7 +2,7 @@
 title: "Closed-loop functional electrical stimulation for gait training for patients with paraplegia"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This conference paper introduces a closed-loop sFES system for generating physiological gait in paraplegic patients, showing promising clinical test results.'
 date: 2018-12-12
 venue: '2018 IEEE International Conference on Robotics and Biomimetics (ROBIO)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8665270/'
